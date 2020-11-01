@@ -1,2 +1,2 @@
 # blog_idea
-A Note
+A Notebook where i display my ideas of blog topics
