@@ -2,7 +2,7 @@
 A repository where i display my ideas of blog topics
 The goal of this blog is to educate people about good coding practice using Python
 
-###Topic Ideas
+### Topic Ideas
 1) Pyenv
 2) Common Style Guidelines: Pep8
 3) Project Structure: README, LICENSE, requirement.txt, .gitignore, etc
