@@ -10,3 +10,4 @@ The goal of this blog is to educate people about good coding practice using Pyth
 5) OOP
 6) UnitTesting using PyTest
 7) [Zen of Python](https://github.com/hblanks/zen-of-python-by-example/blob/master/pep20_by_example.py)??
+8) Good git etiquette: Commit message and style, branch name, etc. 
