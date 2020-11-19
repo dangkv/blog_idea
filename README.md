@@ -1,5 +1,5 @@
 # blog_idea
-A repository where i display my ideas of blog topics
+A repository where i display my ideas for blog topics
 The goal of this blog is to educate people about good coding practice using Python
 
 ### Topic Ideas
